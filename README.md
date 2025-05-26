@@ -70,8 +70,8 @@ php artisan serve
 ## Screenshots
 
 ### Create Book Form
-![Create Book Form](docs/screenshots/Create.png)
-*The create book form with validation and error handling*
+![image alt](https://github.com/fmc61/book_library/blob/e71fbc13e40b50b30a8f93a1d854349e3d48708a/book-library/docs/screenshots/Create.png)
+
 
 ### Edit Book Form
 ![Edit Book Form](docs/screenshots/edit.png)
