@@ -74,13 +74,12 @@ php artisan serve
 
 
 ### Edit Book Form
-![Edit Book Form](docs/screenshots/edit.png)
-*Edit form with pre-populated data and validation*
+![image alt](https://github.com/fmc61/book_library/blob/425033caf07ff26546deda22b16d78459370629c/book-library/docs/screenshots/edit.png)
+
 
 ### Delete Confirmation
-![Delete Confirmation](docs/screenshots/delete.png)
-*Delete confirmation dialog for safe book removal*
-
+![image alt](https://github.com/fmc61/book_library/blob/425033caf07ff26546deda22b16d78459370629c/book-library/docs/screenshots/delete.png)
+if you want to delete, easilly click the button delete, the one you want to delete
 ## Learning Summary
 
 During the development of this project, several key Laravel concepts and best practices were implemented:
